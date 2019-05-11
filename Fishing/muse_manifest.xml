@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Ribalka.ru" resolutions="1x" timestamp="1557552365922">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="486648594" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_3282red.jpg" crc="3923452219" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u129-4.png" crc="259844236" ref="index"/>
+    <file name="shuka3.jpg" crc="401450779" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01sm.jpg" crc="456777493" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02sm.jpg" crc="335488028" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03sm.jpg" crc="4215064149" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fon2.jpg" crc="43998371" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="289420791" seo="true" mt="1557552364924" redirect="true"/>
+</manifest>
