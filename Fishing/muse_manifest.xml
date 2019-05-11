@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Ribalka.ru" resolutions="1x" timestamp="1557557741573">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Ribalka.ru" resolutions="1x" timestamp="1557558245698">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="122543220" ref="index"/>
+    <file name="index.css" crc="174588602" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -15,19 +15,18 @@
   <folder name="images">
     <file name="fon2.jpg" crc="43998371" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_3282red.jpg" crc="3923452219" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u129-4.png" crc="259844236" ref="index"/>
-    <file name="shuka3.jpg" crc="401450779" ref="index">
+    <file name="shuka3.jpg" crc="4217425167" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01sm.jpg" crc="456777493" ref="index">
+    <file name="01sm.jpg" crc="4210128518" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02sm.jpg" crc="335488028" ref="index">
+    <file name="02sm.jpg" crc="277288568" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="03sm.jpg" crc="4215064149" ref="index">
@@ -40,5 +39,5 @@
     </folder>
     <file name="index.html" crc="165890615" seo="true" mt="1557557295069" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4024142941" seo="true" mt="1557557740874" redirect="true"/>
+  <file name="index.html" crc="369558625" seo="true" mt="1557558245197" redirect="true"/>
 </manifest>
